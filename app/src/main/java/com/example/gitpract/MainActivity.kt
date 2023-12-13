@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         println("Hamouda 03")
         println("Hamouda 04")
         println("Hamouda 05")
+        println("Hamouda 06")
     }
 }
