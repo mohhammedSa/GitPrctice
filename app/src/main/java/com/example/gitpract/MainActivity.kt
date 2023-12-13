@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Hamouda 01")
         println("Hamouda 02")
+        println("Hamouda 03")
+        println("Hamouda 04")
+        println("Hamouda 05")
     }
 }
